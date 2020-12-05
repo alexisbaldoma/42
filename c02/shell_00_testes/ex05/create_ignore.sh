@@ -1,0 +1,1 @@
+echo '.DS_Store'>.gitignore;echo 'mywork.c'>.gitignore;  touch .DS_Store;touch mywork.c
